@@ -1,7 +1,7 @@
-# vite-mern-template
+# vite-mern
 
 [![Depfu](https://badges.depfu.com/badges/1b70410a7764005553d576dd171dce8d/status.svg)](https://depfu.com)
-[![Depfu](https://badges.depfu.com/badges/1b70410a7764005553d576dd171dce8d/count.svg)](https://depfu.com/github/apicgg/vite-mern-template?project_id=38988)
+[![Depfu](https://badges.depfu.com/badges/1b70410a7764005553d576dd171dce8d/count.svg)](https://depfu.com/github/vadym312/vite-mern?project_id=38988)
 
 > Simple opinionated boilerplate for MERN stack with Vite and Redux Toolkit.
 > This includes React+TypeScript with familiar configuration for vite.config.ts for front-end and Express+TypeScript for back-end.
@@ -38,18 +38,18 @@ Any package manager can be used with this project (e.g. npm or yarn or pnpm).
 
 ## Demo
 
-![vite-mern-template-gh-demo](https://user-images.githubusercontent.com/78271602/234833309-fe8df564-2895-4727-be1e-c807fe142333.gif)
+![vite-mern-gh-demo](https://user-images.githubusercontent.com/78271602/234833309-fe8df564-2895-4727-be1e-c807fe142333.gif)
 
 ## Installation
 
 ```bash
-npx degit apicgg/vite-mern-template my-app
+npx degit vadym312/vite-mern my-app
 ```
 
 or
 
 ```bash
-git clone https://github.com/apicgg/vite-mern-template.git
+git clone https://github.com/vadym312/vite-mern.git
 ```
 
 ## Install dependencies (npm or yarn or pnpm)
@@ -88,12 +88,6 @@ npm run dev:frontend
 - [x] Include eslint and prettier.
 - [x] Add testing framework.
 - [ ] Create a npm CLI library for scaffolding projects.
-
-## License
-
-MIT License.
-
-Please review the [License](https://github.com/apicgg/vite-mern-template/blob/main/LICENSE).
 
 ## Contributors ✨
 
